@@ -2,7 +2,5 @@
 - 👀 Sempre interresado em conhecimento. 
 - 💞️ Gosto de Animes, Series, Esportes, Jogos.
 - 📫 Trabalhando como suporte/Desenvolvedor.
-- 👨‍💻 Programo em ReactJs, Delphi, PHP
-- Criando um Sistema em Delphi
-- Só sei o basico rsrsrsrsrs
-
+- 👨‍💻 Linguagens de Programação que tenho conhecimento -> REACTJS, DELPHI, PHP
+- 👨🏻‍💻 Desenvolvendo um Sistema em DELPHI
