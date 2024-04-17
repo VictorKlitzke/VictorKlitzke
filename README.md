@@ -1,6 +1,6 @@
 - 👋 Eae, Sou Victor Gabriel Miranda Klitzke.
-- 👀 Sempre interesado em conhecimento. 
+- 👀 Sempre interessado em conhecimento. 
 - 💞️ Gosto de Animes, Series, Esportes, Jogos.
 - 📫 Trabalhando como Desenvolvedor.
-- 👨‍💻 Linguagens de Programação que tenho conhecimento -> JAVASCRIPT, DELPHI, PHP
-- 👨‍💻 Bancos de dados que tenho conhecimento -> MYSQL, SQLITE, SQLSERVER
+- 👨‍💻 Linguagens de Programação que tenho conhecimento -> JAVASCRIPT, DELPHI, PHP, PYTHON, NODEJS
+- 👨‍💻 Bancos de dados que tenho conhecimento -> MYSQL, SQLITE, SQLSERVER, POSTGRESQL
