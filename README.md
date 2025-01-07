@@ -2,5 +2,5 @@
 - 👀 Sempre interessado em conhecimento. 
 - 💞️ Gosto de Animes, Series, Esportes, Jogos.
 - 📫 Trabalhando como Desenvolvedor.
-- 👨‍💻 Linguagens de Programação que tenho conhecimento -> JAVASCRIPT, DELPHI, PHP, PYTHON, NODEJS
+- 👨‍💻 Linguagens de Programação que tenho conhecimento -> JAVASCRIPT, DELPHI, PHP, DART, NODEJS
 - 👨‍💻 Bancos de dados que tenho conhecimento -> MYSQL, SQLITE, SQLSERVER, POSTGRESQL
