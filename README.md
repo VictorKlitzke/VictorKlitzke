@@ -54,7 +54,14 @@ Tenho experiência em **aplicações web, mobile e backend**, sempre buscando bo
 ---
 
 ## 📊 GitHub Analytics
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=VictorKlitzke&show_icons=true&theme=dark&hide_border=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorKlitzke&layout=compact&theme=dark&hide_border=true" height="165" />
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=VictorKlitzke&show_icons=true&theme=dark&hide_border=true"
+    width="48%"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorKlitzke&layout=compact&theme=dark&hide_border=true"
+    width="48%"
+  />
 </p>
