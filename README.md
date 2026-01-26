@@ -8,29 +8,38 @@
 
 ## 🚀 Tecnologias
 
-### Linguagens & Frameworks
-- JavaScript
-- React
-- PHP
-- Flutter (Dart)
-- Python
-- Java
+### 💻 Linguagens & Frameworks
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" />
+</p>
 
-### Bancos de Dados
-- MySQL
-- SQLite
-- SQL Server
-- PostgreSQL
-- MongoDB
+---
+
+### 🗄️ Bancos de Dados
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" />
+</p>
 
 ---
 
 ## 📌 Projetos em Destaque
-- **App** – Aplicativo de gestão financeira (Dart)
+- **App** – Aplicativo de gestão financeira (Dart / Flutter)
 - **Finanças** – Controle financeiro (Dart)
 - **Deploy** – Automação e deploy (JavaScript)
 
 ---
 
-## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=VictorKlitzke&show_icons=true&theme=dark)
+## 📊 Estatísticas do GitHub
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=VictorKlitzke&show_icons=true&theme=dark" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorKlitzke&layout=compact&theme=dark" height="160" />
+</p>
