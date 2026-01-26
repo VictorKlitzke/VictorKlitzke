@@ -1,6 +1,6 @@
 <h1 align="center">👋 Victor Gabriel Miranda Klitzke</h1>
 
-<p align="center">
+<p align="left">
   💻 Desenvolvedor de Software • 🚀 Full Stack / Backend • 📚 Aprendizado Contínuo
 </p>
 
