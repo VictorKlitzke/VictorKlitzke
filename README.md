@@ -1,10 +1,10 @@
-<h1 align="center">👋 Victor Gabriel Miranda Klitzke</h1>
+<h1 align="left">👋 Victor Gabriel Miranda Klitzke</h1>
 
 <p align="left">
   💻 Desenvolvedor de Software • 🚀 Full Stack / Backend • 📚 Aprendizado Contínuo
 </p>
 
-<p align="center">
+<p align="left">
   <img src="https://komarev.com/ghpvc/?username=VictorKlitzke&color=blue&style=flat" />
 </p>
 
