@@ -1,7 +1,36 @@
-- 👋 Eae, Sou Victor Gabriel Miranda Klitzke.
-- 👀 Sempre interessado em conhecimento. 
-- 💞️ Gosto de Animes, Series, Esportes, Jogos.
-- 📫 Trabalhando como Desenvolvedor.
-- 👨‍💻 Linguagens de Programação que tenho conhecimento -> REACT, PHP, FLUTTER(DART), PYTHON, JAVA
-- 👨‍💻 Bancos de dados que tenho conhecimento -> MYSQL, SQLITE, SQLSERVER, POSTGRESQL, MONGODB
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+# 👋 Olá, eu sou o Victor Gabriel Miranda Klitzke
+
+💻 Desenvolvedor de Software  
+📚 Sempre interessado em aprendizado contínuo  
+🎮 Gosto de animes, séries, esportes e jogos  
+
+---
+
+## 🚀 Tecnologias
+
+### Linguagens & Frameworks
+- JavaScript
+- React
+- PHP
+- Flutter (Dart)
+- Python
+- Java
+
+### Bancos de Dados
+- MySQL
+- SQLite
+- SQL Server
+- PostgreSQL
+- MongoDB
+
+---
+
+## 📌 Projetos em Destaque
+- **App** – Aplicativo de gestão financeira (Dart)
+- **Finanças** – Controle financeiro (Dart)
+- **Deploy** – Automação e deploy (JavaScript)
+
+---
+
+## 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=VictorKlitzke&show_icons=true&theme=dark)
