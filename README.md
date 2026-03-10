@@ -1,48 +1,41 @@
 <div align="center">
 
-<a href="https://vklabs.online">
-<img src="./assets/vklabs-banner.png" alt="VK Labs Banner">
-</a>
+# 👨‍💻 Victor  
+### Founder & Software Engineer at VK Labs
 
-# VK Labs
-
-**Soluções SaaS para clínicas de estética e negócios de serviços**
-
-<a href="https://vklabs.online">Website</a> •
-<a href="https://app.vklabs.online">Aplicação</a>
+<a href="https://vklabs.online">🌐 Website</a> • 
+<a href="https://app.vklabs.online">🚀 Plataforma</a>
 
 </div>
 
 ---
 
-# 🚀 Sobre
+# Sobre mim
 
-A **VK Labs** é uma empresa de desenvolvimento de software focada na criação de soluções SaaS para clínicas de estética, salões de beleza e profissionais de serviços.
+Sou desenvolvedor de software focado na criação de **SaaS escaláveis**, aplicações **mobile** e **sistemas web robustos**.
 
-Nosso objetivo é ajudar empresas a **automatizar processos, organizar atendimentos e aumentar agendamentos**, utilizando tecnologia moderna e sistemas simples de usar.
+Trabalho desenvolvendo soluções que resolvem problemas reais de empresas, principalmente no setor de **serviços, clínicas e negócios locais**.
 
----
+Atualmente sou fundador da **VK Labs**, onde construo produtos digitais voltados para **automação, agendamento e gestão de clientes**.
 
-# 🧑‍💻 Fundador
-
-**Victor**
-
-Desenvolvedor especializado em construção de aplicações modernas e escaláveis, com foco em:
-
-- Aplicações mobile
-- Sistemas SaaS
-- APIs performáticas
-- Infraestrutura de aplicações
-
-Atualmente trabalho desenvolvendo sistemas robustos para empresas enquanto também construo e evoluo produtos da **VK Labs**.
+Minha rotina envolve desenvolvimento backend, mobile e arquitetura de sistemas, sempre buscando criar softwares **simples, eficientes e escaláveis**.
 
 ---
 
-# 💡 Produto
+# 🚀 VK Labs
 
-## Sistema de Agendamento Inteligente
+A **VK Labs** é uma empresa de tecnologia focada no desenvolvimento de **software como serviço (SaaS)**.
 
-Plataforma SaaS criada para facilitar o gerenciamento de clientes e atendimentos.
+Nosso objetivo é ajudar empresas a **automatizar processos, organizar atendimentos e aumentar produtividade**.
+
+### Produto principal
+
+Sistema de **Agendamento Inteligente** voltado para:
+
+- Clínicas de estética
+- Salões de beleza
+- Profissionais autônomos
+- Negócios de atendimento ao cliente
 
 ### Principais funcionalidades
 
@@ -51,53 +44,66 @@ Plataforma SaaS criada para facilitar o gerenciamento de clientes e atendimentos
 - 👩‍⚕️ Gestão de profissionais
 - 👥 Gestão de clientes
 - 📊 Controle de atendimentos
-- 💳 Integração com pagamentos
-- 🔔 Notificações automáticas
-
-Nosso foco é permitir que empresas **tenham mais organização e mais clientes sem complicação.**
+- 💳 Integração com pagamentos online
 
 ---
 
-# 🛠️ Tecnologias Utilizadas
+# 🧠 Tecnologias que utilizo
 
 ### Mobile
+
 - Flutter
 - Dart
 
 ### Backend
+
 - Golang
 - PHP
 - Node.js
 
 ### Frontend
+
 - React
 - TypeScript
 
 ### Infraestrutura
-- Nginx
+
 - Linux VPS
+- Nginx
 - Docker
-- Stripe
-- APIs de mensageria
+- Stripe API
+- WhatsApp API
+
+---
+
+# 🧩 Princípios de desenvolvimento
+
+- Código limpo e organizado
+- Arquitetura escalável
+- Sistemas preparados para crescimento
+- Automação de processos empresariais
+- Experiência do usuário simples e eficiente
 
 ---
 
 # 🌎 Links
 
-Website  
+**Website**  
 https://vklabs.online
 
-Aplicação  
+**Plataforma**  
 https://app.vklabs.online
 
 ---
 
-# 📈 Visão
+# 📈 Objetivo
 
-Construir soluções SaaS modernas que resolvam problemas reais de empresas e escalar produtos digitais no mercado.
+Construir soluções SaaS que resolvam problemas reais de empresas e escalar produtos digitais no mercado.
 
 ---
 
-# 📄 Licença
+<div align="center">
 
-Este projeto é propriedade da **VK Labs**.
+### VK Labs © 2026
+
+</div>
