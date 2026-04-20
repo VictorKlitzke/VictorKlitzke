@@ -57,14 +57,15 @@ Sistema de **Agendamento Inteligente** voltado para:
 
 ### Backend
 
-- Golang
 - PHP
+- Laravel
 - Node.js
 
 ### Frontend
 
 - React
 - TypeScript
+- Blade
 
 ### Infraestrutura
 
