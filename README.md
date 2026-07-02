@@ -2,7 +2,7 @@
 
 # 👨‍💻 Victor
 
-### Software Engineer • Flutter • Laravel • React • Golang
+### Software Engineer • Flutter • Laravel • React • C#
 
 <a href="https://vklabs.online">🌐 Website</a> • <a href="https://app.vklabs.online">🚀 Plataforma</a>
 
@@ -92,7 +92,7 @@ Desenvolvimento de uma plataforma voltada para lojas e distribuidoras do setor c
 
 * PHP
 * Laravel
-* Golang
+* Dotnet
 * Node.js
 
 ## Frontend
@@ -105,6 +105,8 @@ Desenvolvimento de uma plataforma voltada para lojas e distribuidoras do setor c
 
 * MySQL
 * PostgreSQL
+* SQL Server
+* SQLITE
 
 ## Infraestrutura
 
