@@ -1,74 +1,64 @@
 <div align="center">
 
-# 👨‍💻 Victor
+# 👋 Olá, eu sou Victor
 
-### Software Engineer • Flutter • Laravel • React • C#
+### Software Engineer • Flutter • .NET • Laravel • React
 
-<a href="https://vklabs.online">🌐 Website</a> • <a href="https://app.vklabs.online">🚀 Plataforma</a>
+Desenvolvendo aplicações mobile, web e backend com foco em arquitetura, escalabilidade e qualidade de software.
+
+<a href="https://vklabs.online">🌐 VK Labs</a> • <a href="https://app.vklabs.online">🚀 Plataforma</a>
 
 </div>
 
 ---
 
-# Sobre mim
+# 💼 Sobre mim
 
-Sou desenvolvedor de software com experiência na criação de aplicações **mobile**, **web** e **backend**, desenvolvendo soluções escaláveis para empresas de diferentes segmentos.
+Sou desenvolvedor de software com experiência na criação de aplicações **mobile**, **web** e **backend**, desenvolvendo soluções robustas para diferentes segmentos de mercado.
 
-Atuo no desenvolvimento de sistemas utilizando **Flutter, Dart, Laravel, PHP, React, TypeScript e Golang**, sempre priorizando arquitetura limpa, desempenho e facilidade de manutenção.
+Minha atuação envolve o desenvolvimento de sistemas corporativos, APIs, aplicações móveis e plataformas SaaS, utilizando boas práticas de engenharia de software, arquitetura limpa e foco em performance, escalabilidade e manutenção.
 
-Além da minha atuação profissional, sou fundador da **VK Labs**, onde desenvolvo produtos SaaS voltados para automação de processos empresariais.
-
-Tenho interesse em contribuir com equipes de tecnologia em empresas, cooperativas financeiras e organizações que buscam inovação por meio de software de qualidade.
+Além da minha atuação profissional, também desenvolvo produtos por meio da **VK Labs**, onde transformo ideias em soluções digitais voltadas à automação e gestão empresarial.
 
 ---
 
-# 💼 Experiência
+# 🚀 Áreas de atuação
 
-## Software Engineer
-
-Desenvolvimento de soluções completas envolvendo:
-
-* Aplicações mobile com Flutter
-* APIs REST escaláveis
-* Sistemas web administrativos
-* Integração entre serviços
-* Arquitetura de software
-* Banco de dados relacionais
-* Docker e Linux
-
-Experiência com desenvolvimento de sistemas voltados para automação de processos empresariais, gestão operacional e plataformas SaaS.
+* Desenvolvimento Mobile
+* Desenvolvimento Backend
+* Desenvolvimento Web
+* APIs REST
+* Sistemas Corporativos
+* Plataformas SaaS
+* Integração entre sistemas
+* Automação de processos
+* Arquitetura de Software
 
 ---
 
-# 🚀 VK Labs
+# 🏢 Projetos
 
-A **VK Labs** é um laboratório de software dedicado ao desenvolvimento de soluções digitais para empresas.
+## 📅 Plataforma de Agendamento Inteligente
 
-### Principais projetos
+Solução SaaS desenvolvida para otimizar a gestão de atendimentos e automatizar processos.
 
-### 📅 Sistema de Agendamento Inteligente
-
-Plataforma para:
-
-* Clínicas
-* Salões de beleza
-* Profissionais autônomos
-* Empresas de serviços
-
-Funcionalidades:
+### Recursos
 
 * Agendamento online
-* Confirmação automática via WhatsApp
 * Gestão de clientes
 * Gestão de profissionais
+* Confirmação automática via WhatsApp
 * Controle de atendimentos
 * Integração com pagamentos
+* Dashboard administrativo
 
 ---
 
-### 👟 Sistema de Gestão de Vendas para Empresas de Calçados
+## 👟 Sistema de Gestão Comercial para Empresas de Calçados
 
-Desenvolvimento de uma plataforma voltada para lojas e distribuidoras do setor calçadista, com funcionalidades como:
+Sistema desenvolvido para apoiar operações comerciais e administrativas.
+
+### Recursos
 
 * Cadastro de produtos
 * Controle de estoque
@@ -81,79 +71,85 @@ Desenvolvimento de uma plataforma voltada para lojas e distribuidoras do setor c
 
 ---
 
-# 🧠 Tecnologias
+# 🛠️ Tecnologias
 
-## Mobile
+### Mobile
 
 * Flutter
 * Dart
 
-## Backend
+### Backend
 
+* .NET
+* ASP.NET Core
 * PHP
 * Laravel
-* Dotnet
 * Node.js
 
-## Frontend
+### Frontend
 
 * React
 * TypeScript
 * Blade
 
-## Banco de Dados
+### Banco de Dados
 
 * MySQL
 * PostgreSQL
 * SQL Server
-* SQLITE
+* SQLite
 
-## Infraestrutura
+### Infraestrutura
 
 * Docker
 * Linux
 * Nginx
 * VPS
 * Git
+* GitHub Actions
 
-## Integrações
+### Integrações
 
-* Stripe API
-* WhatsApp API
 * REST APIs
+* WhatsApp API
+* Stripe API
 
 ---
 
-# 🧩 Princípios de Desenvolvimento
+# 🧩 Princípios
 
-* Código limpo
-* Arquitetura escalável
+* Clean Architecture
+* Clean Code
+* SOLID
 * Boas práticas de engenharia de software
-* Automação de processos
+* Escalabilidade
 * Performance
+* Manutenibilidade
+* Automação de processos
 * Experiência do usuário
-* Facilidade de manutenção
+
+---
+
+# 📚 Aprendizado Contínuo
+
+Busco constantemente aprimorar conhecimentos em arquitetura de software, desenvolvimento distribuído, computação em nuvem e tecnologias que contribuam para a construção de sistemas modernos, seguros e escaláveis.
 
 ---
 
 # 🌎 Links
 
 **Website**
+
 https://vklabs.online
 
 **Plataforma**
+
 https://app.vklabs.online
-
----
-
-# 📈 Objetivo
-
-Atuar no desenvolvimento de soluções tecnológicas que gerem impacto para empresas, cooperativas financeiras e organizações de diversos segmentos, contribuindo com aplicações robustas, escaláveis e de alta qualidade, enquanto continuo evoluindo produtos digitais por meio da VK Labs.
 
 ---
 
 <div align="center">
 
-### Desenvolvendo tecnologia para empresas e pessoas.
+### 💙 Building software that scales.
 
 </div>
