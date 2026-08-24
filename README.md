@@ -6,7 +6,7 @@
 
 Desenvolvendo aplicações mobile, web e backend com foco em arquitetura, escalabilidade e qualidade de software.
 
-<a href="https://vklabs.online">🌐 VK Labs</a> • <a href="https://app.vklabs.online">🚀 Plataforma</a>
+<a href="https://vklabs.online">🌐 VK Labs</a>
 
 </div>
 
@@ -16,9 +16,9 @@ Desenvolvendo aplicações mobile, web e backend com foco em arquitetura, escala
 
 Sou desenvolvedor de software com experiência na criação de aplicações **mobile**, **web** e **backend**, desenvolvendo soluções robustas para diferentes segmentos de mercado.
 
-Minha atuação envolve o desenvolvimento de sistemas corporativos, APIs, aplicações móveis e plataformas SaaS, utilizando boas práticas de engenharia de software, arquitetura limpa e foco em performance, escalabilidade e manutenção.
+Minha atuação envolve o desenvolvimento de sistemas corporativos, APIs, aplicações móveis e plataformas empresariais, utilizando boas práticas de engenharia de software, arquitetura limpa e foco em performance, escalabilidade e manutenção.
 
-Além da minha atuação profissional, também desenvolvo produtos por meio da **VK Labs**, onde transformo ideias em soluções digitais voltadas à automação e gestão empresarial.
+Além da minha atuação profissional, também desenvolvo produtos por meio da **VK Labs**, transformando ideias em soluções digitais voltadas à automação, gestão e eficiência operacional.
 
 ---
 
@@ -29,7 +29,7 @@ Além da minha atuação profissional, também desenvolvo produtos por meio da *
 * Desenvolvimento Web
 * APIs REST
 * Sistemas Corporativos
-* Plataformas SaaS
+* Sistemas de Gestão
 * Integração entre sistemas
 * Automação de processos
 * Arquitetura de Software
@@ -38,25 +38,9 @@ Além da minha atuação profissional, também desenvolvo produtos por meio da *
 
 # 🏢 Projetos
 
-## 📅 Plataforma de Agendamento Inteligente
+## 👟 Sistema 2D — Gestão Comercial
 
-Solução SaaS desenvolvida para otimizar a gestão de atendimentos e automatizar processos.
-
-### Recursos
-
-* Agendamento online
-* Gestão de clientes
-* Gestão de profissionais
-* Confirmação automática via WhatsApp
-* Controle de atendimentos
-* Integração com pagamentos
-* Dashboard administrativo
-
----
-
-## 👟 Sistema de Gestão Comercial para Empresas de Calçados
-
-Sistema desenvolvido para apoiar operações comerciais e administrativas.
+Sistema desenvolvido para apoiar a gestão comercial e operacional de empresas do segmento de calçados.
 
 ### Recursos
 
@@ -67,7 +51,28 @@ Sistema desenvolvido para apoiar operações comerciais e administrativas.
 * Histórico de vendas
 * Relatórios gerenciais
 * Dashboard de indicadores
+* Gestão comercial
 * Integração com meios de pagamento
+
+---
+
+## ⏱️ Sistema de Ponto e Gestão de Colaboradores
+
+Sistema desenvolvido para gerenciamento de jornada de trabalho, colaboradores e processos relacionados ao controle de ponto e horas extras.
+
+### Recursos
+
+* Registro de ponto
+* Gestão de colaboradores
+* Controle de jornadas
+* Controle de horas extras
+* Fluxo de aprovação
+* Aprovação hierárquica
+* Gestão de gestores e responsáveis
+* Relatórios
+* Dashboard gerencial
+* Integração com sistemas corporativos
+* Aplicação mobile
 
 ---
 
@@ -111,8 +116,9 @@ Sistema desenvolvido para apoiar operações comerciais e administrativas.
 ### Integrações
 
 * REST APIs
-* WhatsApp API
-* Stripe API
+* APIs corporativas
+* Integração entre sistemas
+* Serviços de mensageria
 
 ---
 
@@ -141,10 +147,6 @@ Busco constantemente aprimorar conhecimentos em arquitetura de software, desenvo
 **Website**
 
 https://vklabs.online
-
-**Plataforma**
-
-https://app.vklabs.online
 
 ---
 
