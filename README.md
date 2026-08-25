@@ -2,7 +2,7 @@
 
 # 👋 Olá, eu sou Victor
 
-### Software Engineer • Flutter • .NET • Laravel • React
+### Software Engineer • Flutter • Laravel • React • Go
 
 Desenvolvendo aplicações mobile, web e backend com foco em arquitetura, escalabilidade e qualidade de software.
 
@@ -85,8 +85,7 @@ Sistema desenvolvido para gerenciamento de jornada de trabalho, colaboradores e 
 
 ### Backend
 
-* .NET
-* ASP.NET Core
+* Go
 * PHP
 * Laravel
 * Node.js
@@ -103,6 +102,7 @@ Sistema desenvolvido para gerenciamento de jornada de trabalho, colaboradores e 
 * PostgreSQL
 * SQL Server
 * SQLite
+* Firebird
 
 ### Infraestrutura
 
