@@ -4,152 +4,159 @@
 
 ### Software Engineer • Flutter • Laravel • React
 
-Desenvolvendo aplicações mobile, web e backend com foco em arquitetura, escalabilidade e qualidade de software.
-
-<a href="https://vklabs.online">🌐 VK Labs</a>
+Desenvolvedor de software focado na construção de aplicações **mobile, web e backend**, com experiência em sistemas corporativos, APIs, integrações e soluções escaláveis.
 
 </div>
 
 ---
 
-# 💼 Sobre mim
+## 💼 Sobre mim
 
-Sou desenvolvedor de software com experiência na criação de aplicações **mobile**, **web** e **backend**, desenvolvendo soluções robustas para diferentes segmentos de mercado.
+Sou Software Engineer com experiência no desenvolvimento de aplicações **mobile, web e backend**, atuando desde a definição de requisitos e regras de negócio até arquitetura, desenvolvimento, integração e manutenção dos sistemas.
 
-Minha atuação envolve o desenvolvimento de sistemas corporativos, APIs, aplicações móveis e plataformas empresariais, utilizando boas práticas de engenharia de software, arquitetura limpa e foco em performance, escalabilidade e manutenção.
+Tenho experiência principalmente com:
 
-Além da minha atuação profissional, também desenvolvo produtos por meio da **VK Labs**, transformando ideias em soluções digitais voltadas à automação, gestão e eficiência operacional.
-
----
-
-# 🚀 Áreas de atuação
-
-* Desenvolvimento Mobile
-* Desenvolvimento Backend
-* Desenvolvimento Web
-* APIs REST
-* Sistemas Corporativos
-* Sistemas de Gestão
+* Desenvolvimento de aplicações mobile com Flutter
+* Desenvolvimento de APIs e aplicações backend
+* Desenvolvimento de aplicações web
 * Integração entre sistemas
+* Sistemas corporativos e de gestão
+* Modelagem e integração com bancos de dados
 * Automação de processos
-* Arquitetura de Software
+* Arquitetura e organização de software
+
+Busco construir software com foco em **qualidade, manutenção, performance e escalabilidade**, utilizando princípios como Clean Architecture, SOLID e Clean Code quando aplicáveis ao projeto.
 
 ---
 
-# 🏢 Projetos
+## 🚀 Projetos
 
-## 👟 Sistema 2D — Gestão Comercial
+Alguns dos projetos que venho desenvolvendo para aprofundar conhecimentos e explorar diferentes desafios de engenharia de software.
 
-Sistema desenvolvido para apoiar a gestão comercial e operacional de empresas do segmento de calçados.
+### 👟 Sistema 2D
 
-### Recursos
+Sistema de gestão comercial desenvolvido para o segmento de calçados.
 
-* Cadastro de produtos
+**Principais funcionalidades:**
+
+* Gestão de produtos
 * Controle de estoque
-* Gestão de clientes
-* Controle de pedidos
-* Histórico de vendas
-* Relatórios gerenciais
-* Dashboard de indicadores
+* Clientes
+* Pedidos
+* Vendas
+* Relatórios
+* Dashboard
 * Gestão comercial
-* Integração com meios de pagamento
+* Integrações
+
+**Tecnologias:** Laravel • PHP • Blade • MySQL
 
 ---
 
-## ⏱️ Sistema de Ponto e Gestão de Colaboradores
+### ⏱️ Ponto e Gestão de Colaboradores
 
-Sistema desenvolvido para gerenciamento de jornada de trabalho, colaboradores e processos relacionados ao controle de ponto e horas extras.
+Plataforma para gerenciamento de colaboradores, jornadas de trabalho e controle de ponto.
 
-### Recursos
+**Principais funcionalidades:**
 
 * Registro de ponto
 * Gestão de colaboradores
 * Controle de jornadas
-* Controle de horas extras
-* Fluxo de aprovação
-* Aprovação hierárquica
-* Gestão de gestores e responsáveis
+* Horas extras
+* Fluxos de aprovação
+* Gestão hierárquica
 * Relatórios
-* Dashboard gerencial
-* Integração com sistemas corporativos
+* Dashboard
+* Integrações com sistemas corporativos
 * Aplicação mobile
+
+**Tecnologias:** Laravel • PHP • Flutter • MySQL
 
 ---
 
-# 🛠️ Tecnologias
+## 🛠️ Stack
 
 ### Mobile
 
-* Flutter
-* Dart
+Flutter
+Dart
 
 ### Backend
 
-* PHP
-* Laravel
+PHP
+Laravel
+REST APIs
 
 ### Frontend
 
-* React
-* TypeScript
-* Blade
+React
+TypeScript
+Blade
 
-### Banco de Dados
+### Databases
 
-* MySQL
-* PostgreSQL
-* SQL Server
-* SQLite
-* Firebird
+MySQL
+PostgreSQL
+SQL Server
+SQLite
+Firebird
 
-### Infraestrutura
+### Infrastructure & Tools
 
-* Docker
-* Linux
-* Nginx
-* VPS
-* Git
-* GitHub Actions
-
-### Integrações
-
-* REST APIs
-* APIs corporativas
-* Integração entre sistemas
-* Serviços de mensageria
+Docker
+Linux
+Nginx
+Git
+GitHub Actions
+VPS
 
 ---
 
-# 🧩 Princípios
+## 🧩 Engenharia de Software
+
+Tenho interesse e experiência em:
 
 * Clean Architecture
 * Clean Code
 * SOLID
-* Boas práticas de engenharia de software
-* Escalabilidade
+* Design Patterns
+* APIs REST
+* Integração de sistemas
+* Modelagem de dados
+* Sistemas distribuídos
 * Performance
+* Escalabilidade
 * Manutenibilidade
-* Automação de processos
-* Experiência do usuário
+* Automação
 
 ---
 
-# 📚 Aprendizado Contínuo
+## 📚 Atualmente estudando
 
-Busco constantemente aprimorar conhecimentos em arquitetura de software, desenvolvimento distribuído, computação em nuvem e tecnologias que contribuam para a construção de sistemas modernos, seguros e escaláveis.
+Aprofundando conhecimentos em:
+
+* Arquitetura de software
+* Backend e APIs
+* Sistemas distribuídos
+* Cloud Computing
+* Performance
+* Desenvolvimento mobile
+* Boas práticas de engenharia de software
 
 ---
 
-# 🌎 Links
+## 🌐
 
-**Website**
+<div align="center">
 
-https://vklabs.online
+[VK Labs](https://vklabs.online)
+
+</div>
 
 ---
 
 <div align="center">
 
-### 💙 Building software that scales.
+### Building software with purpose.
 
 </div>
