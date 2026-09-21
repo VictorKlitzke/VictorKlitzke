@@ -129,6 +129,7 @@ Aprofundando conhecimentos em:
 ![GitHub stars](https://img.shields.io/github/stars/VK-Labs-Tech?style=for-the-badge&logo=github&label=Stars)
 
 </div>
+
 ---
 
 ## 🌐 Links
