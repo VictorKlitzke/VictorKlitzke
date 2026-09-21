@@ -124,12 +124,11 @@ Aprofundando conhecimentos em:
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=VK-Labs-Tech&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&count_private=true"/>
+![GitHub followers](https://img.shields.io/github/followers/VK-Labs-Tech?style=for-the-badge&logo=github&label=Followers)
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VK-Labs-Tech&layout=compact&theme=transparent&hide_border=true"/>
+![GitHub stars](https://img.shields.io/github/stars/VK-Labs-Tech?style=for-the-badge&logo=github&label=Stars)
 
 </div>
-
 ---
 
 ## 🌐 Links
