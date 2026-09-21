@@ -4,7 +4,7 @@
 
 ### Software Engineer • Flutter • Laravel • React
 
-Desenvolvedor de software focado na construção de aplicações **mobile, web e backend**, com experiência em sistemas corporativos, APIs, integrações e soluções escaláveis.
+Desenvolvedor de software com experiência na construção de aplicações **mobile, web e backend**, atuando no desenvolvimento de sistemas corporativos, APIs, integrações e soluções orientadas a negócio.
 
 </div>
 
@@ -12,109 +12,84 @@ Desenvolvedor de software focado na construção de aplicações **mobile, web e
 
 ## 💼 Sobre mim
 
-Sou Software Engineer com experiência no desenvolvimento de aplicações **mobile, web e backend**, atuando desde a definição de requisitos e regras de negócio até arquitetura, desenvolvimento, integração e manutenção dos sistemas.
+Sou **Software Engineer** com experiência no desenvolvimento de aplicações **mobile, web e backend**, participando de diferentes etapas do ciclo de desenvolvimento de software — desde o entendimento de requisitos e regras de negócio até arquitetura, implementação, integração, testes e manutenção.
 
-Tenho experiência principalmente com:
+Minha experiência está principalmente concentrada em:
 
-* Desenvolvimento de aplicações mobile com Flutter
+* Desenvolvimento de aplicações mobile com **Flutter**
 * Desenvolvimento de APIs e aplicações backend
 * Desenvolvimento de aplicações web
-* Integração entre sistemas
-* Sistemas corporativos e de gestão
+* Integração entre sistemas e serviços
+* Sistemas corporativos e soluções de gestão
 * Modelagem e integração com bancos de dados
 * Automação de processos
+* Implementação de regras de negócio
 * Arquitetura e organização de software
+* Manutenção e evolução de sistemas existentes
 
-Busco construir software com foco em **qualidade, manutenção, performance e escalabilidade**, utilizando princípios como Clean Architecture, SOLID e Clean Code quando aplicáveis ao projeto.
-
----
-
-## 🚀 Projetos
-
-Alguns dos projetos que venho desenvolvendo para aprofundar conhecimentos e explorar diferentes desafios de engenharia de software.
-
-### 👟 Sistema 2D
-
-Sistema de gestão comercial desenvolvido para o segmento de calçados.
-
-**Principais funcionalidades:**
-
-* Gestão de produtos
-* Controle de estoque
-* Clientes
-* Pedidos
-* Vendas
-* Relatórios
-* Dashboard
-* Gestão comercial
-* Integrações
-
-**Tecnologias:** Laravel • PHP • Blade • MySQL
+Busco desenvolver software com foco em **qualidade, manutenibilidade, performance e escalabilidade**, aplicando princípios de engenharia de software de acordo com as necessidades de cada projeto.
 
 ---
 
-### ⏱️ Ponto e Gestão de Colaboradores
+## 🏢 Experiência
 
-Plataforma para gerenciamento de colaboradores, jornadas de trabalho e controle de ponto.
+Atuação no desenvolvimento e evolução de **sistemas corporativos**, trabalhando principalmente com aplicações voltadas para processos de negócio, gestão e integração entre sistemas.
 
-**Principais funcionalidades:**
+Entre as principais atividades:
 
-* Registro de ponto
-* Gestão de colaboradores
-* Controle de jornadas
-* Horas extras
-* Fluxos de aprovação
-* Gestão hierárquica
-* Relatórios
-* Dashboard
-* Integrações com sistemas corporativos
-* Aplicação mobile
-
-**Tecnologias:** Laravel • PHP • Flutter • MySQL
+* Desenvolvimento e manutenção de aplicações **Flutter**
+* Desenvolvimento de APIs e serviços utilizando **PHP e Laravel**
+* Desenvolvimento de aplicações web com **React e TypeScript**
+* Integração entre sistemas e serviços
+* Implementação de regras de negócio
+* Integração com bancos de dados relacionais
+* Desenvolvimento de funcionalidades para sistemas corporativos
+* Automação de processos
+* Correção e evolução de sistemas existentes
+* Análise e resolução de problemas técnicos
+* Participação na definição de soluções e arquitetura
 
 ---
 
-## 🛠️ Stack
+## 🛠️ Tech Stack
 
-### Mobile
+### 📱 Mobile
 
-Flutter
-Dart
+<p>
+  <img src="https://skillicons.dev/icons?i=flutter,dart" />
+</p>
 
-### Backend
+### ⚙️ Backend
 
-PHP
-Laravel
-REST APIs
+<p>
+  <img src="https://skillicons.dev/icons?i=php,laravel" />
+</p>
 
-### Frontend
+### 🌐 Frontend
 
-React
-TypeScript
-Blade
+<p>
+  <img src="https://skillicons.dev/icons?i=react,typescript" />
+</p>
 
-### Databases
+### 🗄️ Databases
 
-MySQL
-PostgreSQL
-SQL Server
-SQLite
-Firebird
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,postgresql,sqlite" />
+</p>
 
-### Infrastructure & Tools
+**Também trabalho com:** SQL Server • Firebird
 
-Docker
-Linux
-Nginx
-Git
-GitHub Actions
-VPS
+### ☁️ Infrastructure & Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,linux,nginx,git,githubactions" />
+</p>
 
 ---
 
 ## 🧩 Engenharia de Software
 
-Tenho interesse e experiência em:
+Tenho interesse constante em arquitetura e boas práticas de desenvolvimento, especialmente em:
 
 * Clean Architecture
 * Clean Code
@@ -139,17 +114,31 @@ Aprofundando conhecimentos em:
 * Backend e APIs
 * Sistemas distribuídos
 * Cloud Computing
-* Performance
+* Performance e escalabilidade
 * Desenvolvimento mobile
-* Boas práticas de engenharia de software
+* Engenharia de software
 
 ---
 
-## 🌐
+## 📊 GitHub
 
 <div align="center">
 
-[VK Labs](https://vklabs.online)
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=VK-Labs-Tech&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&count_private=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VK-Labs-Tech&layout=compact&theme=transparent&hide_border=true"/>
+
+</div>
+
+---
+
+## 🌐 Links
+
+<div align="center">
+
+<a href="https://vklabs.online">
+  <img src="https://img.shields.io/badge/VK%20Labs-vklabs.online-000000?style=for-the-badge" />
+</a>
 
 </div>
 
